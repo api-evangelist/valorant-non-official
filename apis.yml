@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://valorant-api.com
 common:
+  - type: DomainSecurity
+    url: security/valorant-non-official-domain-security.yml
   - type: Website
     url: https://valorant-api.com
   - type: PublicAPIsListing
